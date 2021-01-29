@@ -1,0 +1,14 @@
+led progrm on and off
+
+void setup()
+{
+    pinMode(LED, OUTPUT);
+}
+void loop()
+{
+    digital write(LED,High):
+    delay(1000);
+    digital write(LED,LOW);
+    delay(1000);
+
+}
